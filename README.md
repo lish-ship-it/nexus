@@ -14,7 +14,7 @@ Select chords from a 15-chord diatonic palette, let the probabilistic engine tri
 
 From Maiden:
 ```
-;install https://github.com/[username]/nexus
+;install https://github.com/lish-ship-it/nexus
 ```
 
 Or manually copy the `nexus` folder to `~/dust/code/`
